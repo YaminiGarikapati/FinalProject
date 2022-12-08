@@ -38,3 +38,11 @@ Traveling time, Internet availability, Internet speed, Attendance, 5 hr practice
 KT(keeping terms), Semester Grade Point Average(SGPA), Correlation matrix.
 
 
+
+
+
+
+
+
+https://user-images.githubusercontent.com/56861037/206531850-838628b1-2d9f-43c7-ae36-92451834f88f.mp4
+
